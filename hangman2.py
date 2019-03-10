@@ -119,7 +119,7 @@ if difficulty == 'H':
 
 missedLetters = ''
 correctLetters = ''
-secretWord., secretSet  = getRandomWord(words)
+secretWord, secretSet  = getRandomWord(words)
 gameIsDone = False
 
 while True:
